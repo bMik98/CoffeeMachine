@@ -1,0 +1,13 @@
+.idea/*
+.out/*
+!.idea/runConfigurations
+!.idea/runConfigurations/*
+!.idea/vcs.xml
+*.iml
+*.class
+vcs.xml
+*/out/*
+.gradle/*
+Coffee Machine/task/test/*
+Coffee Machine/task/build/*
+
